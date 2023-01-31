@@ -13,21 +13,17 @@ Jogo de rpg de texto feito puramente em Java.
 # Detalhes do projeto
 
 ## Prints:
+Encontro com inimigo (que no caso foi um Golem):
 
 ![eclipse_E6RA99HmP1](https://user-images.githubusercontent.com/89547163/215866104-bbe6be8a-6b06-4f2e-81d8-cad2b1120c26.png)
 
-Encontro com inimigo (que no caso foi um Golem)
-
+Game over:
 
 ![eclipse_zkL9ltN9n4](https://user-images.githubusercontent.com/89547163/215870780-7ef0aacf-7f4a-4d1f-94e4-38307dbeb9f5.png)
 
-Game over
-
+Escolhendo personagem e tutorial:
 
 ![eclipse_sObIFjfnF9](https://user-images.githubusercontent.com/89547163/215870908-cce6b850-986a-4459-a2d8-d210709035a0.png)
-
-Escolhendo personagem e tutorial
-
 
 ## Desafios:
 

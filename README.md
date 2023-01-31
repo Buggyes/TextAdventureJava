@@ -15,13 +15,20 @@ Jogo de rpg de texto feito puramente em Java.
 ## Prints:
 
 ![eclipse_E6RA99HmP1](https://user-images.githubusercontent.com/89547163/215866104-bbe6be8a-6b06-4f2e-81d8-cad2b1120c26.png)
+
 Encontro com inimigo (que no caso foi um Golem)
 
+
 ![eclipse_zkL9ltN9n4](https://user-images.githubusercontent.com/89547163/215870780-7ef0aacf-7f4a-4d1f-94e4-38307dbeb9f5.png)
+
 Game over
 
+
 ![eclipse_sObIFjfnF9](https://user-images.githubusercontent.com/89547163/215870908-cce6b850-986a-4459-a2d8-d210709035a0.png)
+
 Escolhendo personagem e tutorial
+
+
 ## Desafios:
 
   As únicas 2 dificuldades que eu tive e que me fez ficar mais de 2 dias estagnado no projeto, foi o sistema de poção, que quando seu personagem bebe ela, ele recupera uma porcentagem fixa da vida dele (o que causou muitos bugs no processo), e o sistema de save do jogo (sim, o jogo salva quando você fecha), que me fez aprender a manusear arquivos de texto e converter eles em dados.
